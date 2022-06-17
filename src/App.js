@@ -2,6 +2,7 @@ import 'regenerator-runtime/runtime'
 import React from 'react'
 import { login, logout } from './utils'
 import './global.css'
+import './app.css'
 import Header from "./components/Header"
 import Hero from "./components/Hero"
 import Specs from "./components/Specs"

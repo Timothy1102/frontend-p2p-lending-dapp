@@ -5,14 +5,14 @@
 /.pnp
 .pnp.js
 
-/contract
+# /contract
 
 # build
 /out
 /dist
 
 # keys
-/neardev
+# /neardev
 
 # testing
 /coverage
