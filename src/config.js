@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'p2p-loan-dapp'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'dev-1655387429538-21290179783027'
 
 function getConfig(env) {
   switch (env) {
